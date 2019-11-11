@@ -3,3 +3,5 @@ Willkommen zu meinem GIT-Projekt!
 Im feature-branch fuege ich eine neue Zeile hinzu.
 
 Anschließend noch eine neue Einfuegung.
+
+Ein letztes Feature.
