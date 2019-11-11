@@ -1,1 +1,3 @@
 Willkommen zu meinem GIT-Projekt!
+
+Im feature-branch fuege ich eine neue Zeile hinzu.
