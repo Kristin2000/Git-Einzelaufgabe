@@ -2,4 +2,4 @@ Willkommen zu meinem GIT-Projekt!
 
 Im feature-branch fuege ich eine neue Zeile hinzu.
 
-Anschliesend noch eine neue Einfuegung.
+Anschließend noch eine neue Einfuegung.
